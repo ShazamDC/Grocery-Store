@@ -1,0 +1,112 @@
+{
+	"mydata": [{
+		"itemListname": "vegetables",
+		"itemList": [{
+			"id": 1004,
+			"name": "Brinjal",
+			"desc": "MP brinjal",
+			"price": 23,
+			"url": "http://im.rediff.com/money/2010/jan/27brinjal5.jpg",
+			"seller": "KK vegetable store",
+			"quantity": 24,
+			"markForDelete": false,
+			"rating":47
+		}, {
+			"id": 1001,
+			"name": "tomato",
+			"desc": "shimla tomato",
+			"price": 50,
+			"url": "http://www.openzambia.com/wp-content/uploads/2017/11/AN313-Tomatoes-732x549-Thumb.jpg",
+			"seller": "sabzimandi vegetable store",
+			"quantity": 56,
+			"markForDelete": false,
+			"rating":47
+		}, {
+			"id": 1002,
+			"name": "ladyfinger",
+			"desc": "rajasthan ladyfinger",
+			"price": 40,
+			"url": "https://i.ytimg.com/vi/s4iG6wDwaYQ/maxresdefault.jpg",
+			"seller": "kataria vegetable store",
+			"quantity": 20,
+			"markForDelete": false,
+			"rating":47
+		}, {
+			"id": 1003,
+			"name": "patato",
+			"desc": "haldivani",
+			"price": 40,
+			"url":"http://www.acb-vzw.be/acbfotos/patatten.jpg" ,
+			"seller": "JJ vegetable store",
+			"quantity": 25,
+			"markForDelete": false,
+			"rating":47
+		}]
+	}, {
+		"itemListname": "fruits",
+		"itemList": [{
+			"id": 1005,
+			"name": "apple",
+			"desc": "kashmiri apple",
+			"price": 29,
+			"url": "https://sc01.alicdn.com/kf/UT8CVb1X.RXXXagOFbXW/Best-fresh-apple-fruit-for-sale.jpg",
+			"seller": "sabzimandi vegetable store",
+			"quantity": 45,
+			"markForDelete": false,
+			"rating":47
+		}, {
+			"id": 1006,
+			"name": "grapes",
+			"desc": "newzealand grapes",
+			"price": 39,
+			"url": "http://www.gastronomiavasca.net/uploads/image/file/3436/uva_morada.jpg",
+			"seller": "MKumar vegetable store",
+			"quantity": 55,
+			"markForDelete": false,
+			"rating":47
+		}, {
+			"id": 1007,
+			"name": "banana",
+			"desc": "kerela banana",
+			"price": 39,
+			"url": "https://static.shoplightspeed.com/shops/603484/files/000284494/hangsen-banana-hangsen-e-liquid.jpg",
+			"seller": "jatin lal vegetable store",
+			"quantity": 62,
+			"markForDelete": false,
+			"rating":47
+		}]
+	}, {
+		"itemListname": "Fast-Food",
+		"itemList": [{
+			"id": 1008,
+			"name": "burger",
+			"desc": "burger with one cheese slice",
+			"price": 39,
+			"url":"https://www.redrobin.com/content/dam/web/menu/tavern-menu/tavern-double-burger-1100.jpg" ,
+			"seller": "kumar lal fast foodstore",
+			"quantity": 69,
+			"markForDelete": false,
+			"rating":47
+		}, {
+			"id": 1009,
+			"name": "chowmin",
+			"desc": "chowmin with singapuri sauce",
+			"price": 20,
+			"url": "https://i2.wp.com/www.bharatzkitchen.com/wp-content/uploads/2017/05/chowmein-thumb.jpg",
+			"seller": "king lal fast foodstore",
+			"quantity": 60,
+			"markForDelete": false,
+			"rating":47
+		}, {
+			"id": 1010,
+			"name": "momos",
+			"desc": "chinese Momos",
+			"price": 10,
+			"url": "http://images.onlymyhealth.com/imported/images/2017/March/16_Mar_2017/momosbig.jpg",
+			"seller": "BK fast foodstore",
+			"quantity": 27,
+			"markForDelete": false,
+			"rating":47
+		}]
+	}]
+}
