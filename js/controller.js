@@ -4,7 +4,7 @@ loadusers();
 once();}
 function loadusers()
 {var pr=new Promise((resolve,reject)=>{
-    var url = "http://localhost:3000/users.json";
+    var url = "https://raw.githubusercontent.com/ShazamDC/Grocery-Store/master/users.json";
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open("GET", url);
     xmlHttp.onreadystatechange = function() {
@@ -147,7 +147,7 @@ document.querySelector("#billtotal").innerHTML=`<div>Total bill  is ${total+tota
 }
 function once(){
 var pr=new Promise((resolve,reject)=>{
-    var url = "http://localhost:3000/list.json";
+    var url = "https://raw.githubusercontent.com/ShazamDC/Grocery-Store/master/list.json";
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open("GET", url);
     xmlHttp.onreadystatechange = function() {
